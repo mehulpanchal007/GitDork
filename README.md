@@ -28,3 +28,13 @@ This is a bash script to find Emails, Urls and Names of linked to commits in a g
 #### 5. Start this Script with first argument as Output folder
 
 `./gitdork.sh Path_to_output_folder`
+
+<br>
+
+#### 6. Output
+
+1. `emails.txt` file contains emails of commiters
+2. `names.txt` file contains names of commiters
+3. `urls.txt` file contains URLs
+<br>
+^^^Found in all repositories^^^
