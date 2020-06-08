@@ -4,27 +4,27 @@ This is a bash script to find Emails, Urls and Names of linked to commits in a g
 
 ## Usage
 
-#### Create Work folder
+#### 1. Create Work folder
 `mkdir work_folder`
 
 <br>
 
 
-#### Create Output folder
+#### 2. Create Output folder
 `mkdir output_folder`
 
 <br>
 
-#### Change dir to work_folder
+#### 3. Change dir to work_folder
 `cd work_folder`
 
 <br>
 
-#### Clone as many repositories you want
+#### 4. Clone as many repositories you want
 `git clone https://github.com/*`
 
 <br>
 
-#### Start this Script with first argument as Output folder
+#### 5. Start this Script with first argument as Output folder
 
 `./gitdork.sh Path_to_output_folder`
